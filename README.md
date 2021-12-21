@@ -10,7 +10,7 @@ Work on Python 3.<br>
 ```
 pip install -r requirements.txt
 ```
-**Clone**
+**Clone repository**
 ```
 $ git clone https://github.com/oussamaelaji/DoS_WiFi_Jammer/
 $ cd DoS_WiFi_Jammer
@@ -19,3 +19,5 @@ $ cd DoS_WiFi_Jammer
 ```
 $ sudo Jammer.py
 ```
+## Copyright
+WiFi Jammer is made with ❤️ by EL-AJI Oussama - 2021
