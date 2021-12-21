@@ -5,7 +5,7 @@ WiFi DoS (Denial of Service) attack to disconnect all clients or a specific MAC 
 - prettytable
 - art
 ## Installation
-Work on Python 3.
+Work on Python 3.<br>
 **Installing dependencies**
 ```
 pip install -r requirements.txt
