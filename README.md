@@ -6,3 +6,4 @@ WiFi DoS (Denial of Service) attack to disconnect all clients or a specific MAC 
 - art
 ## Installation
 Work on Python 3
+#### Installing dependencies
