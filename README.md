@@ -1,5 +1,5 @@
-# DoS_WiFi_Jammer
-## DESCRIPTION
+# Denial of Service WiFi Jammer attack
+## Description
 WiFi DoS (Denial of Service) attack to disconnect all clients or a specific MAC address client and transmitting Deauthentication Frames.
 ## Dependencies
 - prettytable
