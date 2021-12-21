@@ -12,7 +12,10 @@ pip install -r requirements.txt
 ```
 **Clone**
 ```
-$ git clone https://github.com/oussamaelaji/DoS_WiFi_Jammer
+$ git clone https://github.com/oussamaelaji/DoS_WiFi_Jammer/
 $ cd DoS_WiFi_Jammer
-$ sudo Jammer.sh
+```
+## Usage
+```
+$ sudo Jammer.py
 ```
