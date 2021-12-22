@@ -16,7 +16,7 @@ $ cd DoS_WiFi_Jammer/
 ```
 ## Usage
 ```
-$ sudo Jammer.py
+$ sudo python3 Jammer.py
 ```
 ## Copyright
 WiFi Jammer is made with ❤️ by EL-AJI Oussama - 2021
